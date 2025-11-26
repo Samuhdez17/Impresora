@@ -1,0 +1,6 @@
+medidas luz
+diámetro 10.9 
+Alto 15 
+Inclinación 42 
+separación entre foto 47 
+separación entre el borde 3
